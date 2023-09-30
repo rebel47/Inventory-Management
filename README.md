@@ -15,7 +15,7 @@ This is a simple web-based inventory management application built using Django o
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/inventory-management.git
+git clone https://github.com/rebel47/Inventory-Management
 ```
 
 2. Create a virtual environment and install dependencies:
